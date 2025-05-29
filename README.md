@@ -2,12 +2,56 @@
 
 This repository contains a Power BI project that analyzes an automobile dataset to uncover insights about car models, fuel types, power, mileage, and more.
 
+---
+
 ## 📁 Project Files
 
-| File Name            | Description                                      |
-|---------------------|--------------------------------------------------|
-| `23 naincy.pbix`     | Power BI Dashboard for Automobile Data Analysis |
-| `Car_Data.xlsx`      | Dataset used for the Power BI dashboard         |
+| File Name         | Description                                      |
+|------------------|--------------------------------------------------|
+| `23 naincy.pbix` | Power BI Dashboard for Automobile Data Analysis |
+| `Car_Data.xlsx`  | Dataset used for the Power BI dashboard         |
+
+---
+
+## 🖼️ Dashboard Snapshots
+
+### 📌 Dashboard Overview
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+### 📊 Make-wise Number of Cars
+
+![Make-wise Number of Cars](images/make-wise-cars.png)
+
+### 🚘 Body Type vs Fuel Type
+
+![Body Type vs Fuel Type](images/bodytype-fueltype.png)
+
+### ⚡ Average Power Output
+
+![Average Power Output](images/average-power.png)
+
+### 🏆 Top 5 Fuel Efficient Cars
+
+![Top 5 Fuel Efficient Cars](images/fuel-efficient-cars.png)
+
+### 💪 Most Powerful Car by Make
+
+![Most Powerful Car by Make](images/most-powerful-car.png)
+
+### ⛽ Fuel-wise Distribution
+
+![Fuel-wise Distribution](images/fuel-distribution.png)
+
+### 🔍 Power and Cylinder Comparison
+
+![Power and Cylinder Comparison](images/power-cylinder.png)
+
+### 🚦 Mileage KPIs
+
+![City and Highway Mileage Averages](images/mileage-kpis.png)
+
+> ℹ️ **Note:** Replace the image paths with actual screenshots saved in an `images/` folder inside your repository.
 
 ---
 
@@ -35,7 +79,7 @@ The Power BI dashboard includes the following visual insights:
 
 ## 📈 Key Metrics
 
-- **Total Records**: 1276 entries
+- **Total Records**: 1,276 entries
 - **Average Power**: 156 HP
 - **Average City Mileage**: 15 km/l
 - **Average Highway Mileage**: 16 km/l
@@ -44,11 +88,11 @@ The Power BI dashboard includes the following visual insights:
 
 ## 🧠 Insights Derived
 
-- SUVs are the most common body type in the dataset.
-- Petrol cars dominate the market share.
-- Toyota leads in fuel efficiency.
-- Aston Martin provides the most powerful models.
-- Power and fuel type have a strong correlation across body types.
+- **SUVs** are the most common body type in the dataset.
+- **Petrol** cars dominate the market share.
+- **Toyota** leads in fuel efficiency.
+- **Aston Martin** provides the most powerful models.
+- **Power and fuel type** have a strong correlation across body types.
 
 ---
 
@@ -70,11 +114,11 @@ Power BI Enthusiast & Data Analysis Student
 
 ## 📬 Contact
 
-Feel free to connect if you have any questions or suggestions.
+For feedback, questions, or collaboration:
+📧 _[Insert your email or LinkedIn profile here]_
 
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
